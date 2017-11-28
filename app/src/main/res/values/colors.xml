@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#999999</color>
+    <color name="colorPrimaryDark">#191919</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue">#3232ff</color>
+    <color name="wheat">#fff</color>
+    <color name="deleteDialog">#88b7c5</color>
+    <color name="deletBtn">#959ab2</color>
+</resources>
